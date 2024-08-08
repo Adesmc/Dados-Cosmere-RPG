@@ -1,6 +1,6 @@
 {
-  "name": "stormlight-plot-die",
-  "title": "Stormlight Plot Die",
+  "name": "El dado de trama",
+  "title": "El dado de trama",
   "description": "Adds the ability to roll a Stormlight RPG Plot die",
   "version": "1.1.0",
   "compatibility": {
@@ -21,6 +21,6 @@
     "./css/plot.css"
   ],
   "url": "https://github.com/Adesmc/stormlight-plot-die",
-  "manifest": "https://raw.githubusercontent.com/Adesmc/stormlight-plot-die/master/module.json",
-  "download": "https://raw.githubusercontent.com/Adesmc/stormlight-plot-die/master/fvtt-stormlight-plot-die.zip"
+  "manifest": "https://raw.githubusercontent.com/Adesmc/stormlight-plot-die/main/module.json",
+  "download": "https://raw.githubusercontent.com/Adesmc/stormlight-plot-die/main/fvtt-stormlight-plot-die.zip"
 }
