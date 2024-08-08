@@ -20,7 +20,7 @@
   "styles": [
     "./css/plot.css"
   ],
-  "url": "https://github.com/TheFlyingPig/FVTT-Stormlight-Plot-Die",
-  "manifest": "https://raw.githubusercontent.com/TheFlyingPig/FVTT-Stormlight-Plot-Die/master/module.json",
-  "download": "https://raw.githubusercontent.com/TheFlyingPig/FVTT-Stormlight-Plot-Die/master/fvtt-stormlight-plot-die.zip"
+  "url": "https://github.com/Adesmc/stormlight-plot-die",
+  "manifest": "https://raw.githubusercontent.com/Adesmc/stormlight-plot-die/master/module.json",
+  "download": "https://raw.githubusercontent.com/Adesmc/stormlight-plot-die/master/fvtt-stormlight-plot-die.zip"
 }
