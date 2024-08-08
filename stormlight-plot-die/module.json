@@ -20,7 +20,7 @@
   "styles": [
     "./css/plot.css"
   ],
-  "url": "https://github.com/Adesmc/stormlight-plot-die",
-  "manifest": "https://raw.githubusercontent.com/Adesmc/stormlight-plot-die/main/module.json",
-  "download": "https://raw.githubusercontent.com/Adesmc/stormlight-plot-die/main/fvtt-stormlight-plot-die.zip"
+  "url": "https://github.com/Adesmc/Dados-Cosmere-RPG/stormlight-plot-die",
+  "manifest": "https://raw.githubusercontent.com/Adesmc/Dados-Cosmere-RPG/stormlight-plot-die/main/module.json",
+  "download": "https://raw.githubusercontent.com/Adesmc/Dados-Cosmere-RPG/stormlight-plot-die/main/fvtt-stormlight-plot-die.zip"
 }
